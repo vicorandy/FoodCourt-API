@@ -24,7 +24,7 @@ In order to install and run this project locally, you would need to have the fol
 * [**Postgres**]
 
 
-### Installationb
+### Installation
 
 * Clone this repository
 
@@ -39,6 +39,6 @@ git clone [https://github.com/https://github.com/vicorandy/FoodCourt-API]
 * enter you data base value in file config.js it's in the root folder 
 * enter your data base value in src/config/keys please note you are entering your database information in two files 
 * Run ` knex migrate:latest ` in your terminal
-* Run `npm run start dev:` you app will be started .
+* Run `npm run start dev:` you app will be started.
 
 
