@@ -41,3 +41,6 @@ git clone [https://github.com/https://github.com/vicorandy/FoodCourt-API]
 * Run `npm run start dev:` you app will be started.
 
 
+## API Documentation
+
+API documenntation: [https://documenter.getpostman.com/view/25251742/2s8Z76uTyj]
